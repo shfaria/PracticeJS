@@ -1,0 +1,6 @@
+cd ..
+cd ..
+source venv/bin/activate
+cd practiceJS/
+cd pJS/
+python3 manage.py runserver
